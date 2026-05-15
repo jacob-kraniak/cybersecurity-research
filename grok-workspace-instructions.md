@@ -104,6 +104,7 @@ This addendum establishes standardized GitHub workflows to ensure all research o
 - Begin major sessions by confirming the target repository, branch, and current research angle.  
 - Request Grok outputs in ready-to-commit formats (Markdown tables, code blocks, Mermaid diagrams, etc.).  
 - At session close, capture generated content directly into the repository.
+- Ensure ever user-approved commit is pushed directly to Github remote endpoint, not staged at local.
 
 ### Compliance & Best Practices (2026)  
 - All activity limited to authorized scopes (owned hardware, Tesla VDP, public/open-source targets).  
