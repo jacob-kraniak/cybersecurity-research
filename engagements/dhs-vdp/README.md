@@ -12,7 +12,7 @@
 
 ## Tools
 - Arson Framework V2 (Docker)
-- Burp Suite Professional
+- BurpSuite Community
 
 ## Rules of Engagement
 - Strictly in-scope assets only
