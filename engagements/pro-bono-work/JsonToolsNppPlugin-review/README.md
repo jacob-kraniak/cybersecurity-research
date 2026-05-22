@@ -23,6 +23,13 @@ Independent security review of the JsonToolsNppPlugin for Notepad++, performed a
 
 **Activity Log**: [ACTIVITY-LOG.md](ACTIVITY-LOG.md)
 
+## Detected Vulnerabilities and Weaknesses
+
+| ID       | Type | Severity | Description                                      | Affected Component                  | Status      | Recommendation                              | Source                          |
+|----------|------|----------|--------------------------------------------------|-------------------------------------|-------------|---------------------------------------------|---------------------------------|
+| CWE-275 | CWE  | Medium   | Workflow does not contain permissions (excessive `GITHUB_TOKEN` permissions) | `.github/workflows/CI_build.yml`   | Open        | Add explicit `permissions: { contents: read }` at workflow root level | [CodeQL Alert #1](https://github.com/jacob-kraniak/JsonToolsNppPlugin/security/code-scanning/1) |
+| -        | -    | None     | No CVEs, KEV entries, or high-risk dependency vulnerabilities detected | All NuGet dependencies             | Resolved    | Continue monitoring via Dependabot & Socket.dev | Socket.dev Organization Report |
+
 ---
 
 **Last Updated**: 2026-05-22
