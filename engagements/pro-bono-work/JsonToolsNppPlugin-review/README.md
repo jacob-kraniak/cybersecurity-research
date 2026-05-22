@@ -10,10 +10,10 @@ Pro bono community security review of molsonkiko/JsonToolsNppPlugin (Notepad++ J
 - Dynamic testing and vulnerability assessment
 - Documentation of findings for upstream contribution
 
-**Research Branch**: `security-research-review` in fork https://github.com/jacob-kraniak/JsonToolsNppPlugin
+**Research Branch**: `vulnerability-assessment-v8.5.0.1` in fork https://github.com/jacob-kraniak/JsonToolsNppPlugin
 
 **Status**: Initial setup complete.
 
 Links:
 - Original Issue: https://github.com/molsonkiko/JsonToolsNppPlugin/issues/117
-- Fork: https://github.com/jacob-kraniak/JsonToolsNppPlugin/tree/security-research-review
+- Fork: https://github.com/jacob-kraniak/JsonToolsNppPlugin/tree/vulnerability-assessment-v8.5.0.1
