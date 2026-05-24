@@ -17,9 +17,15 @@ Independent security review of the JsonToolsNppPlugin for Notepad++, performed a
 ## Current Status
 - Fork synchronized with upstream
 - Security tooling enabled (Dependabot, Socket.dev, CodeQL)
-- **CodeQL Alert**: "Workflow does not contain permissions" (Medium severity, CWE-275) detected in `.github/workflows/CI_build.yml`
-- **Socket.dev Scan**: Organization Dependencies Report received – 5 NuGet packages identified (1 direct, 4 transitive). All packages received high overall scores (88–90). No critical or high-risk dependencies flagged.
-- Attribution data reviewed (`JsonToolsNppPlugin_attribution.json`) confirms standard open-source licenses (primarily MIT, with BSD and others).
+- **CodeQL Alert (CWE-275)**: Resolved – explicit `permissions: contents: read` now present in `.github/workflows/CI_build.yml`
+- **Socket.dev Scan**: Clean – 5 NuGet packages (scores 88–90), no critical risks
+- **Manual Code Review Phase**: Initiated (automated scanning complete)
+- Attribution data reviewed – standard open-source licenses only
+
+**Activity Log**: [ACTIVITY-LOG.md](ACTIVITY-LOG.md)
+
+## Detected Vulnerabilities and Weaknesses
+*(Table remains unchanged – no new findings)*
 
 **Activity Log**: [ACTIVITY-LOG.md](ACTIVITY-LOG.md)
 
