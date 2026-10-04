@@ -42,7 +42,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="952.0" y="-1273.0"/>
+          <mtg:Position x="2491.0" y="-953.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -507,12 +507,11 @@
             <mtg:DisplayElement name="Domain Information"><![CDATA[<div style="font-size:1.2em; "><style>/*<!&#91;CDATA&#91;*/&#10;p { line-height:50% !important; }&#10;/*&#93;&#93;>*/</style><table>&#10; <tr>&#10;  <td><b>Created Date</b></td>&#10;  <td>2015-11-22 02:28:37 UTC</td>&#10; </tr>&#10; <tr>&#10;  <td><b>Expiry Date</b></td>&#10;  <td>2027-11-22 02:28:37 UTC</td>&#10; </tr>&#10; <tr>&#10;  <td><b>Updated Date</b></td>&#10;  <td>2026-08-12 04:41:04 UTC</td>&#10; </tr>&#10;</table><p>The availability status of <a href="http://v1.church" style="text-align:left;">v1.church</a> is: <b>UNAVAILABLE</b></p><p>Estimated domain age: 3967 days</p></div>]]></mtg:DisplayElement>
             <mtg:DisplayElement name="WhoisXML Registrar Error"><![CDATA[<div style="font-size:1.2em; "><style>/*<!&#91;CDATA&#91;*/&#10;p { line-height:50% !important; }&#10;/*&#93;&#93;>*/</style><p style="position:relative; padding-bottom:-10px; left:-3px; padding-top:-10px; ">Registry WHOIS Records is shown in this Entity.<br />The WhoisXML API returned the following error message: </p><b style="position:relative; padding-bottom:-10px; left:-3px; padding-top:-10px; ">MASKED_WHOIS_DATA</b></div>]]></mtg:DisplayElement>
           </mtg:DisplayInformation>
-          <mtg:Weight>-360973984</mtg:Weight>
         </mtg:MaltegoEntity>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1558.0" y="-474.0"/>
+          <mtg:Position x="1899.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -661,7 +660,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-623.0" y="-474.0"/>
+          <mtg:Position x="2114.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -810,7 +809,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1835.0" y="-671.0"/>
+          <mtg:Position x="4454.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -889,7 +888,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="639.0" y="-671.0"/>
+          <mtg:Position x="4186.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -918,7 +917,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2847.0" y="-1574.0"/>
+          <mtg:Position x="2283.0" y="33.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -949,7 +948,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1068.0" y="-474.0"/>
+          <mtg:Position x="4004.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -965,7 +964,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-806.0" y="-474.0"/>
+          <mtg:Position x="2278.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -981,7 +980,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-374.0" y="-671.0"/>
+          <mtg:Position x="3382.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -997,7 +996,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="451.0" y="-972.0"/>
+          <mtg:Position x="4919.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1082,7 +1081,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1286.0" y="-1574.0"/>
+          <mtg:Position x="3145.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1098,7 +1097,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="798.0" y="-671.0"/>
+          <mtg:Position x="3744.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1114,7 +1113,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="957.0" y="-671.0"/>
+          <mtg:Position x="3883.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1130,7 +1129,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="125.0" y="-671.0"/>
+          <mtg:Position x="3572.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1149,7 +1148,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="256.0" y="-1273.0"/>
+          <mtg:Position x="2491.0" y="-1069.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1180,7 +1179,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2347.0" y="-1574.0"/>
+          <mtg:Position x="1660.0" y="33.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1197,7 +1196,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1227.0" y="-474.0"/>
+          <mtg:Position x="2812.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1237,7 +1236,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-566.0" y="-671.0"/>
+          <mtg:Position x="3572.0" y="-561.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1277,7 +1276,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-33.0" y="-671.0"/>
+          <mtg:Position x="3744.0" y="-561.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1426,7 +1425,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="979.0" y="-972.0"/>
+          <mtg:Position x="3712.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1466,7 +1465,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="284.0" y="-671.0"/>
+          <mtg:Position x="3883.0" y="-561.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1546,7 +1545,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2486.0" y="-1273.0"/>
+          <mtg:Position x="1809.0" y="214.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1805,7 +1804,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2314.0" y="-1273.0"/>
+          <mtg:Position x="1628.0" y="214.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1827,7 +1826,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1517.0" y="-1574.0"/>
+          <mtg:Position x="1949.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2086,7 +2085,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="639.0" y="-474.0"/>
+          <mtg:Position x="4186.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2108,7 +2107,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2518.0" y="-1574.0"/>
+          <mtg:Position x="1841.0" y="33.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2130,7 +2129,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-640.0" y="-1574.0"/>
+          <mtg:Position x="1847.0" y="-1250.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2215,7 +2214,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1082.0" y="-1574.0"/>
+          <mtg:Position x="3012.0" y="-1011.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2300,7 +2299,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2190.0" y="-1573.0"/>
+          <mtg:Position x="4456.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2385,7 +2384,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1835.0" y="-1573.0"/>
+          <mtg:Position x="4606.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2401,7 +2400,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="461.0" y="-671.0"/>
+          <mtg:Position x="3382.0" y="-561.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2417,7 +2416,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="424.0" y="-1273.0"/>
+          <mtg:Position x="4699.0" y="-1011.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2439,7 +2438,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-799.0" y="-1574.0"/>
+          <mtg:Position x="2327.0" y="-1011.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2455,7 +2454,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="292.0" y="-972.0"/>
+          <mtg:Position x="3524.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2471,7 +2470,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-768.0" y="-671.0"/>
+          <mtg:Position x="2180.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2488,7 +2487,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1386.0" y="-474.0"/>
+          <mtg:Position x="2673.0" y="-133.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2510,7 +2509,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-640.0" y="-1273.0"/>
+          <mtg:Position x="1847.0" y="-1011.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2530,7 +2529,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2012.0" y="-1273.0"/>
+          <mtg:Position x="2061.0" y="214.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2546,7 +2545,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="793.0" y="-1273.0"/>
+          <mtg:Position x="2630.0" y="-1069.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2562,7 +2561,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-495.0" y="-972.0"/>
+          <mtg:Position x="1611.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2711,7 +2710,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1131.0" y="-671.0"/>
+          <mtg:Position x="3185.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2727,7 +2726,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="613.0" y="-1273.0"/>
+          <mtg:Position x="2790.0" y="-1069.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2749,7 +2748,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-976.0" y="-1574.0"/>
+          <mtg:Position x="2174.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2771,7 +2770,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="97.0" y="-1273.0"/>
+          <mtg:Position x="3607.0" y="-1011.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2791,7 +2790,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2847.0" y="-1273.0"/>
+          <mtg:Position x="2283.0" y="214.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2813,7 +2812,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="343.0" y="-1574.0"/>
+          <mtg:Position x="2802.0" y="-1250.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2857,7 +2856,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1159.0" y="-1273.0"/>
+          <mtg:Position x="2933.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2942,7 +2941,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1676.0" y="-1573.0"/>
+          <mtg:Position x="4755.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2961,7 +2960,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1370.0" y="-671.0"/>
+          <mtg:Position x="2742.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3040,7 +3039,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-671.0" y="-972.0"/>
+          <mtg:Position x="1767.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3069,7 +3068,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="-204.0" y="-671.0"/>
+          <mtg:Position x="3382.0" y="-329.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3097,7 +3096,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="1517.0" y="-1273.0"/>
+          <mtg:Position x="1949.0" y="-445.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3182,7 +3181,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2688.0" y="-1573.0"/>
+          <mtg:Position x="3901.0" y="-757.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3211,7 +3210,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2012.0" y="-1574.0"/>
+          <mtg:Position x="2061.0" y="33.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -4246,7 +4245,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
               <mtg:Value>agent (inactive)</mtg:Value>
             </mtg:Property>
             <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
-              <mtg:Value>0</mtg:Value>
+              <mtg:Value>1</mtg:Value>
             </mtg:Property>
             <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
               <mtg:Value>true</mtg:Value>
@@ -4600,7 +4599,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e52" source="n33" target="n40">
+    <edge id="e52" source="n32" target="n52">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1dm" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>Same Person</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e53" source="n33" target="n40">
       <data key="d2">
         <mtg:MaltegoLink id="2f7plf9ztnl01" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -4632,7 +4654,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e53" source="n48" target="n6">
+    <edge id="e54" source="n45" target="n28">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1df" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>Same Person (OC President)</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>1</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e55" source="n48" target="n6">
       <data key="d2">
         <mtg:MaltegoLink id="2nl7g3y4lpm52" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4655,7 +4700,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e54" source="n34" target="n2">
+    <edge id="e56" source="n34" target="n2">
       <data key="d2">
         <mtg:MaltegoLink id="2q39j64czaxmn" type="maltego.link.transform-link">
           <mtg:Properties>
