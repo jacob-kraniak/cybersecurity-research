@@ -42,7 +42,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4864.0" y="-894.0"/>
+          <mtg:Position x="3641.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -511,7 +511,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2354.0" y="-396.0"/>
+          <mtg:Position x="1738.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -660,7 +660,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5279.0" y="-396.0"/>
+          <mtg:Position x="4630.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -809,7 +809,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4556.0" y="-562.0"/>
+          <mtg:Position x="5466.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -834,7 +834,7 @@
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5206.0" y="-728.0"/>
+          <mtg:Position x="4856.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -913,7 +913,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3745.0" y="-562.0"/>
+          <mtg:Position x="5615.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -942,7 +942,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2949.0" y="-244.0"/>
+          <mtg:Position x="2327.0" y="-228.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -973,7 +973,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4151.0" y="-396.0"/>
+          <mtg:Position x="4069.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -989,7 +989,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5633.0" y="-396.0"/>
+          <mtg:Position x="3880.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1005,7 +1005,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4407.0" y="-562.0"/>
+          <mtg:Position x="4680.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1021,7 +1021,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3221.0" y="-728.0"/>
+          <mtg:Position x="2285.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1106,7 +1106,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2736.0" y="-728.0"/>
+          <mtg:Position x="2136.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1131,7 +1131,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3538.0" y="-894.0"/>
+          <mtg:Position x="2364.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1147,7 +1147,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5174.0" y="-562.0"/>
+          <mtg:Position x="5024.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1163,7 +1163,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4258.0" y="-562.0"/>
+          <mtg:Position x="4531.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1179,7 +1179,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4108.0" y="-562.0"/>
+          <mtg:Position x="3781.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1198,7 +1198,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4715.0" y="-894.0"/>
+          <mtg:Position x="2541.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1229,7 +1229,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2515.0" y="-244.0"/>
+          <mtg:Position x="1898.0" y="-228.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1246,7 +1246,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3223.0" y="-396.0"/>
+          <mtg:Position x="2859.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1271,7 +1271,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5708.0" y="-562.0"/>
+          <mtg:Position x="3271.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1311,7 +1311,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3926.0" y="-562.0"/>
+          <mtg:Position x="3600.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1351,7 +1351,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3596.0" y="-562.0"/>
+          <mtg:Position x="3417.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1500,7 +1500,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3032.0" y="-728.0"/>
+          <mtg:Position x="2896.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1540,7 +1540,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3447.0" y="-562.0"/>
+          <mtg:Position x="3268.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1620,7 +1620,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2383.0" y="-78.0"/>
+          <mtg:Position x="1770.0" y="-62.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1879,7 +1879,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2547.0" y="-78.0"/>
+          <mtg:Position x="1930.0" y="-62.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -1901,7 +1901,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2587.0" y="-728.0"/>
+          <mtg:Position x="1987.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2160,7 +2160,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3745.0" y="-396.0"/>
+          <mtg:Position x="5615.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2182,7 +2182,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2351.0" y="-244.0"/>
+          <mtg:Position x="1737.0" y="-228.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2204,7 +2204,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5145.0" y="-1060.0"/>
+          <mtg:Position x="5037.0" y="-1044.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2229,7 +2229,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2980.0" y="-1065.0"/>
+          <mtg:Position x="3492.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2314,7 +2314,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3323.0" y="-894.0"/>
+          <mtg:Position x="3828.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2399,7 +2399,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4247.0" y="-728.0"/>
+          <mtg:Position x="5844.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2484,7 +2484,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4547.0" y="-728.0"/>
+          <mtg:Position x="5544.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2500,7 +2500,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3130.0" y="-562.0"/>
+          <mtg:Position x="3101.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2516,7 +2516,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2936.0" y="-894.0"/>
+          <mtg:Position x="2177.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2538,7 +2538,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5462.0" y="-894.0"/>
+          <mtg:Position x="5222.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2554,7 +2554,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3926.0" y="-728.0"/>
+          <mtg:Position x="3781.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2570,7 +2570,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5520.0" y="-562.0"/>
+          <mtg:Position x="4357.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2587,7 +2587,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3372.0" y="-396.0"/>
+          <mtg:Position x="3008.0" y="-380.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2609,7 +2609,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5145.0" y="-894.0"/>
+          <mtg:Position x="5037.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2629,7 +2629,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2756.0" y="-78.0"/>
+          <mtg:Position x="2133.0" y="-62.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2645,7 +2645,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2778.0" y="-894.0"/>
+          <mtg:Position x="1829.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2661,7 +2661,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5383.0" y="-728.0"/>
+          <mtg:Position x="5182.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2810,7 +2810,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2566.0" y="-562.0"/>
+          <mtg:Position x="1951.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2826,7 +2826,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3115.0" y="-894.0"/>
+          <mtg:Position x="1998.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2848,7 +2848,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5551.0" y="-728.0"/>
+          <mtg:Position x="4571.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2870,7 +2870,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3867.0" y="-894.0"/>
+          <mtg:Position x="4036.0" y="-878.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2890,7 +2890,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2949.0" y="-78.0"/>
+          <mtg:Position x="2327.0" y="-62.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2912,7 +2912,7 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3942.0" y="-1060.0"/>
+          <mtg:Position x="3641.0" y="-1044.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -2956,11 +2956,30 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3522.0" y="-728.0"/>
+          <mtg:Position x="4112.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
     <node id="n51">
+      <data key="d0">
+        <mtg:MaltegoEntity id="2nep9c8fgo1gq" type="maltego.Phrase">
+          <mtg:Properties>
+            <mtg:Property displayName="Pinned" hidden="false" name="pinned#" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>true</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Text" hidden="false" name="text" nullable="true" readonly="false" type="string">
+              <mtg:Value>2025 990: other liabilities $120,648, Schedule D label Vehicle Loan</mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoEntity>
+      </data>
+      <data key="d1">
+        <mtg:EntityRenderer>
+          <mtg:Position x="2929.0" y="-878.0"/>
+        </mtg:EntityRenderer>
+      </data>
+    </node>
+    <node id="n52">
       <data key="d0">
         <mtg:MaltegoEntity id="2wm9ib9v3c4fh" type="maltego.opencorporates.Officer">
           <mtg:Properties>
@@ -3041,11 +3060,11 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4696.0" y="-728.0"/>
+          <mtg:Position x="5693.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n52">
+    <node id="n53">
       <data key="d0">
         <mtg:MaltegoEntity id="2v4wjubg2buan" type="maltego.Domain">
           <mtg:Properties>
@@ -3060,11 +3079,11 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="3298.0" y="-562.0"/>
+          <mtg:Position x="2933.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n53">
+    <node id="n54">
       <data key="d0">
         <mtg:MaltegoEntity id="2nl7g3y4lpm4o" type="maltego.Domain">
           <mtg:Properties>
@@ -3139,11 +3158,30 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="5012.0" y="-728.0"/>
+          <mtg:Position x="5016.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n54">
+    <node id="n55">
+      <data key="d0">
+        <mtg:MaltegoEntity id="2nep9c8fgo1gi" type="maltego.Phrase">
+          <mtg:Properties>
+            <mtg:Property displayName="Pinned" hidden="false" name="pinned#" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>true</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Text" hidden="false" name="text" nullable="true" readonly="false" type="string">
+              <mtg:Value>2024 990: revenue $614,841, other revenue $43,189, liabilities $15,232, related-entity unchecked</mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoEntity>
+      </data>
+      <data key="d1">
+        <mtg:EntityRenderer>
+          <mtg:Position x="3308.0" y="-878.0"/>
+        </mtg:EntityRenderer>
+      </data>
+    </node>
+    <node id="n56">
       <data key="d0">
         <mtg:MaltegoEntity id="277wu8qgnfq3c" type="maltego.opencorporates.Officer">
           <mtg:Properties>
@@ -3224,11 +3262,11 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4852.0" y="-562.0"/>
+          <mtg:Position x="4852.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n55">
+    <node id="n57">
       <data key="d0">
         <mtg:MaltegoEntity id="29emmb1p89850" type="maltego.Website">
           <mtg:Properties>
@@ -3253,11 +3291,11 @@ This WHOIS server is being retired. Please use our RDAP service instead. Rate li
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2951.0" y="-562.0"/>
+          <mtg:Position x="2773.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n56">
+    <node id="n58">
       <data key="d0">
         <mtg:MaltegoEntity id="2g7ou43bjaw9b" type="maltego.EmailAddress">
           <mtg:Properties>
@@ -3281,11 +3319,11 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2390.0" y="-562.0"/>
+          <mtg:Position x="1775.0" y="-546.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n57">
+    <node id="n59">
       <data key="d0">
         <mtg:MaltegoEntity id="2jlacrqz34so8" type="maltego.opencorporates.Officer">
           <mtg:Properties>
@@ -3366,11 +3404,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="4845.0" y="-728.0"/>
+          <mtg:Position x="5395.0" y="-712.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
-    <node id="n58">
+    <node id="n60">
+      <data key="d0">
+        <mtg:MaltegoEntity id="2nep9c8fgo1gy" type="maltego.Phrase">
+          <mtg:Properties>
+            <mtg:Property displayName="Pinned" hidden="false" name="pinned#" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>true</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Text" hidden="false" name="text" nullable="true" readonly="false" type="string">
+              <mtg:Value>2023 990 Sch O: transfer from related org $53,900, related-entity box unchecked</mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoEntity>
+      </data>
+      <data key="d1">
+        <mtg:EntityRenderer>
+          <mtg:Position x="2722.0" y="-878.0"/>
+        </mtg:EntityRenderer>
+      </data>
+    </node>
+    <node id="n61">
       <data key="d0">
         <mtg:MaltegoEntity id="1z7ddd8eacaun" type="maltego.Website">
           <mtg:Properties>
@@ -3395,7 +3452,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
       </data>
       <data key="d1">
         <mtg:EntityRenderer>
-          <mtg:Position x="2756.0" y="-244.0"/>
+          <mtg:Position x="2133.0" y="-228.0"/>
         </mtg:EntityRenderer>
       </data>
     </node>
@@ -3454,7 +3511,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e2" source="n52" target="n1">
+    <edge id="e2" source="n53" target="n1">
       <data key="d2">
         <mtg:MaltegoLink id="22uifstvyeg66" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -3486,7 +3543,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e3" source="n52" target="n39">
+    <edge id="e3" source="n53" target="n39">
       <data key="d2">
         <mtg:MaltegoLink id="2k3snzj8atj7e" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -3573,7 +3630,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e6" source="n52" target="n18">
+    <edge id="e6" source="n53" target="n18">
       <data key="d2">
         <mtg:MaltegoLink id="27rit6m84n6tu" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -3775,7 +3832,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e14" source="n57" target="n3">
+    <edge id="e14" source="n59" target="n3">
       <data key="d2">
         <mtg:MaltegoLink id="2fatcduxl1lf3" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -3954,7 +4011,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e21" source="n26" target="n52">
+    <edge id="e21" source="n26" target="n53">
       <data key="d2">
         <mtg:MaltegoLink id="2v4wjubg2buc0" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4206,7 +4263,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e30" source="n58" target="n41">
+    <edge id="e30" source="n61" target="n41">
       <data key="d2">
         <mtg:MaltegoLink id="25pfn5hkkre8b" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -4523,7 +4580,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e43" source="n36" target="n38">
+    <edge id="e43" source="n4" target="n37">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1fw" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>church exemption, no 990 filing</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e44" source="n36" target="n38">
       <data key="d2">
         <mtg:MaltegoLink id="2v4wjubg2bubh" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4546,7 +4626,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e44" source="n31" target="n22">
+    <edge id="e45" source="n31" target="n22">
       <data key="d2">
         <mtg:MaltegoLink id="23kjcmz8t8nzu" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -4578,7 +4658,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e45" source="n49" target="n35">
+    <edge id="e46" source="n49" target="n35">
       <data key="d2">
         <mtg:MaltegoLink id="2v4wjubg2buba" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4601,7 +4681,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e46" source="n49" target="n42">
+    <edge id="e47" source="n49" target="n42">
       <data key="d2">
         <mtg:MaltegoLink id="2v4wjubg2bubb" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4624,7 +4704,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e47" source="n54" target="n2">
+    <edge id="e48" source="n56" target="n2">
       <data key="d2">
         <mtg:MaltegoLink id="24kziswcnyy1n" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -4656,7 +4736,53 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e48" source="n37" target="n52">
+    <edge id="e49" source="n19" target="n38">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1ga" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>990 2020-2022, none after</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e50" source="n30" target="n22">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1g3" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>treasurer, $0, 990</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e51" source="n37" target="n53">
       <data key="d2">
         <mtg:MaltegoLink id="2v4wjubg2buao" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4679,7 +4805,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e49" source="n51" target="n3">
+    <edge id="e52" source="n52" target="n3">
       <data key="d2">
         <mtg:MaltegoLink id="216gb6b4mrt7b" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -4711,7 +4837,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e50" source="n40" target="n53">
+    <edge id="e53" source="n55" target="n22">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1gp" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>FY 2024 990</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e54" source="n40" target="n54">
       <data key="d2">
         <mtg:MaltegoLink id="2nl7g3y4lpm4v" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4734,7 +4883,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e51" source="n33" target="n3">
+    <edge id="e55" source="n33" target="n3">
       <data key="d2">
         <mtg:MaltegoLink id="24wja64lpjy6d" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -4766,7 +4915,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e52" source="n37" target="n55">
+    <edge id="e56" source="n37" target="n57">
       <data key="d2">
         <mtg:MaltegoLink id="2jo3y7ng6mw09" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -4798,7 +4947,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e53" source="n32" target="n3">
+    <edge id="e57" source="n32" target="n3">
       <data key="d2">
         <mtg:MaltegoLink id="1znn1lyb9gr62" type="maltego.link.transform-link" reversed="true">
           <mtg:Properties>
@@ -4830,7 +4979,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e54" source="n37" target="n5">
+    <edge id="e58" source="n37" target="n5">
       <data key="d2">
         <mtg:MaltegoLink id="2nl7g3y4lpm4n" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4853,7 +5002,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e55" source="n26" target="n56">
+    <edge id="e59" source="n12" target="n22">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1gh" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>990 2022-2025</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e60" source="n26" target="n58">
       <data key="d2">
         <mtg:MaltegoLink id="2aikh9zn5q34a" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -4885,7 +5057,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e56" source="n36" target="n57">
+    <edge id="e61" source="n36" target="n59">
       <data key="d2">
         <mtg:MaltegoLink id="2nep9c8fgo1dm" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4908,7 +5080,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e57" source="n37" target="n44">
+    <edge id="e62" source="n60" target="n22">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1h5" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>FY 2023 990</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e63" source="n37" target="n44">
       <data key="d2">
         <mtg:MaltegoLink id="2f7plf9ztnl01" type="maltego.link.transform-link">
           <mtg:Properties>
@@ -4940,7 +5135,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e58" source="n49" target="n32">
+    <edge id="e64" source="n49" target="n32">
       <data key="d2">
         <mtg:MaltegoLink id="2nep9c8fgo1df" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4963,7 +5158,30 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e59" source="n52" target="n7">
+    <edge id="e65" source="n51" target="n22">
+      <data key="d2">
+        <mtg:MaltegoLink id="2nep9c8fgo1gx" type="maltego.link.manual-link">
+          <mtg:Properties>
+            <mtg:Property displayName="Label" hidden="false" name="maltego.link.manual.type" nullable="true" readonly="false" type="string">
+              <mtg:Value>FY 2025 990</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Show Label" hidden="false" name="maltego.link.show-label" nullable="true" readonly="false" type="int">
+              <mtg:Value>0</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Reversed" hidden="false" name="maltego.link.is_reversed" nullable="true" readonly="false" type="boolean">
+              <mtg:Value>false</mtg:Value>
+            </mtg:Property>
+            <mtg:Property displayName="Description" hidden="false" name="maltego.link.manual.description" nullable="true" readonly="false" type="string">
+              <mtg:Value></mtg:Value>
+            </mtg:Property>
+          </mtg:Properties>
+        </mtg:MaltegoLink>
+      </data>
+      <data key="d3">
+        <mtg:LinkRenderer/>
+      </data>
+    </edge>
+    <edge id="e66" source="n53" target="n7">
       <data key="d2">
         <mtg:MaltegoLink id="2nl7g3y4lpm52" type="maltego.link.manual-link">
           <mtg:Properties>
@@ -4986,7 +5204,7 @@ https://v1.church/events/v1-women-indiana</mtg:Value>
         <mtg:LinkRenderer/>
       </data>
     </edge>
-    <edge id="e60" source="n38" target="n2">
+    <edge id="e67" source="n38" target="n2">
       <data key="d2">
         <mtg:MaltegoLink id="2q39j64czaxmn" type="maltego.link.transform-link">
           <mtg:Properties>
