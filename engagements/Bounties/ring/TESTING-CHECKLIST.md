@@ -8,11 +8,19 @@
 
 - [ ] Confirm outside-work policy and vendor-conflict checks are complete.
 - [ ] Re-check live policy on `https://hackerone.com/ring` for any updates since 2026-11-26.
-- [ ] Create two test accounts using `<h1username>@wearehackerone.com` (for authenticated access-control/IDOR checks).
-- [ ] **Burp Suite User-Agent rule:** Add Match & Replace (`^User-Agent: .*$` -> `User-Agent: RingResearcher_<h1username>`) and verify in Logger.
+- [ ] Create two test accounts using `jacob-kraniak@wearehackerone.com` (for authenticated access-control/IDOR checks).
+- [x] **Burp Suite User-Agent rule:** Browser traffic to `example.com/s.js` on 2026-11-26 carried `User-Agent: RingResearcher_jacob-kraniak` with Chromium client hints still present. Match and replace is doing its job. Do not replay the copied `curl -k` command.
 - [ ] **Burp Suite Target Scope:** Lock to in-scope Ring/Blink domains; explicitly exclude AWS infrastructure, third-party SaaS hosts, and support-chat endpoints.
 - [ ] **OOB Safety:** Confirm no third-party OOB/blind-XSS hosts (public Collaborator / hosted XSS Hunter) are enabled.
-- [ ] **CLI Rate Cap:** If running `httpx` or `ffuf`, always pass `-H "User-Agent: RingResearcher_<h1username>"` and stay strictly `<= 5 req/s` (recommended conservative cap: `2 req/s`, `-t 2`).
+- [ ] **CLI Rate Cap:** If running `httpx` or `ffuf`, always pass `-H "User-Agent: RingResearcher_jacob-kraniak"` and stay strictly `<= 5 req/s` (recommended conservative cap: `2 req/s`, `-t 2`).
+
+## Burp scope file (reviewed 2026-11-26)
+
+The scope page has **Download Burp Suite Project Configuration File**: https://hackerone.com/ring/policy_scopes?type=team
+
+`rules.json` on JKALI01 matches that public file (six include rules). HackerOne's export is missing the assets typed as Other. Do not import `rules.json` as the program scope. The reviewed file is `burp/ring-scope.json`: the six HackerOne rules, plus `ring.com`, `oauth.ring.com`, `api.ring.com`, `app.ring.com`, `admin.ring.com`, `nw.ring.com`, `fw.ring.com`, and `billing.ring.com` on HTTPS port 443 only. It does not add `*.ring.com`.
+
+The file also does not set the User-Agent, does not exclude third-party hosts on the wildcards, and does not turn off Collaborator. A wildcard match is not ownership. Check WHOIS/RDAP before requesting a new subdomain. No active scan.
 
 ## Phased Workflow
 

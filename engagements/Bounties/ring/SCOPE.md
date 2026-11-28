@@ -51,8 +51,8 @@ Old firmware versions are out of scope. SoC vendor-specific bugs require demonst
 
 ## Mandatory Rules of Engagement
 
-- **Test Accounts:** Register with `<h1username>@wearehackerone.com`. Test only accounts you own.
-- **Required User-Agent:** `RingResearcher_<h1username>` on all traffic (omitting it during scanning risks automated IP/account blocks).
+- **Test Accounts:** Register with `jacob-kraniak@wearehackerone.com` (HackerOne user [jacob-kraniak](https://hackerone.com/jacob-kraniak)). Test only accounts you own.
+- **Required User-Agent:** `RingResearcher_jacob-kraniak` on all traffic (omitting it during scanning risks automated IP/account blocks).
 - **Rate Limit & Scanners:** Limited automated tools allowed ONLY with the required User-Agent and capped at **<= 5 requests/second** per service.
 - **No 3rd-Party OOB Infrastructure:** Blind XSS / OOB testing must use self-hosted domains you control. Using third-party services (e.g., hosted XSS Hunter, public OOB servers) **forfeits all rewards**.
 - **Prohibited Targets & Actions:** Direct attacks on AWS infrastructure, third-party hosted services, employee-facing communication assets (including automated support chats), physical/social engineering, brute-force/DoS, and post-exploitation.
