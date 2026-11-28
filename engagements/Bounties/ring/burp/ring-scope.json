@@ -2,7 +2,16 @@
   "target": {
     "scope": {
       "advanced_mode": true,
-      "exclude": [],
+      "exclude": [
+        {"enabled": true, "file": "^/.*", "host": "^account\\.ring\\.com$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^www\\.ring\\.com$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^static\\.ring\\.com$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^chatbot\\.rc3\\.ring\\.com$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^example\\.com$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^.*\\.cloudfront\\.net$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^.*\\.ctfassets\\.net$", "port": "^.*$", "protocol": "any"},
+        {"enabled": true, "file": "^/.*", "host": "^ring\\.okta\\.com$", "port": "^.*$", "protocol": "any"}
+      ],
       "include": [
         {"enabled": true, "file": "^/.*", "host": "^ring\\.com$", "port": "^443$", "protocol": "https"},
         {"enabled": true, "file": "^/.*", "host": "^api\\.ring\\.com$", "port": "^443$", "protocol": "https"},
